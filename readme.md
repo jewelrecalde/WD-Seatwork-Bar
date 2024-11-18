@@ -122,3 +122,7 @@ WD-ProjectName
 | Header | Sample purpose would be here like this and this is the example of what it is. |(https://codepen.io/themesberg/pen/QWmLKNz)|
 
 |Home page content| Sample purpose here| https://codepen.io/ui-kenjie/pen/GRVgoRg |
+
+https://codepen.io/themesberg/pen/QWmLKNz
+https://codepen.io/ui-kenjie/pen/GRVgoRg
+https://readymadeui.com/tailwind/component/navbar-with-top-bar
