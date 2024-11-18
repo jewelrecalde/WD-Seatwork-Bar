@@ -119,4 +119,6 @@ WD-ProjectName
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 
-| Header | Sample purpose would be here like this and this is the example of what it is. |[ trykolang.com ](https://codepen.io/themesberg/pen/QWmLKNz)|
+| Header | Sample purpose would be here like this and this is the example of what it is. |(https://codepen.io/themesberg/pen/QWmLKNz)|
+
+|Home page content| Sample purpose here| https://codepen.io/ui-kenjie/pen/GRVgoRg |
