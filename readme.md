@@ -126,5 +126,6 @@ WD-ProjectName
 https://codepen.io/themesberg/pen/QWmLKNz
 https://codepen.io/ui-kenjie/pen/GRVgoRg
 https://readymadeui.com/tailwind/component/navbar-with-top-bar
+https://readymadeui.com/tailwind/block/pricing-card-layout
 
 put the bg.jpg in css/style hindi sa index
