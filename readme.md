@@ -131,5 +131,6 @@ https://codepen.io/ui-kenjie/pen/GRVgoRg
 https://readymadeui.com/tailwind/component/navbar-with-top-bar
 https://readymadeui.com/tailwind/block/pricing-card-layout
 https://readymadeui.com/tailwind-blocks/blog-section
+https://readymadeui.com/tailwind-blocks/blog-section | with image
 
 put the bg.jpg in css/style hindi sa index
