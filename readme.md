@@ -6,7 +6,7 @@
 <div align="center">
   <a href="">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/logo.png" alt="" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Aria's Bolthole bar Website</h3>
@@ -38,9 +38,6 @@
       <a href="#Home">Home</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
           <a href="#Events">Events</a>
         </li>
         <li>
@@ -48,9 +45,6 @@
         </li>
         <li>
           <a href="#Menu">Menu</a>
-        </li>
-        <li>
-          <a href="#Aboutus">Aboutus</a>
         </li>
       </ol>
     </li>
