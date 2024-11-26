@@ -37,16 +37,16 @@
     <li>
       <a href="#Home">Home</a>
       <ol>
-       <li>
+    <li>
       <a href="#Events">Events</a>
       <ol>
-       <li>
+    <li>
       <a href="#Gallery">Gallery</a>
       <ol>
-       <li>
+    <li>
       <a href="#Aboutus">Aboutus</a>
       <ol>
-       <li>
+    <li>
       <a href="#Menu">Menu</a>
       <ol>
         <li>
@@ -60,6 +60,8 @@
         </li>
       </ol>
     </li>
+  </ol>
+  </ol>
   </ol>
 </details>
 
