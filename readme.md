@@ -6,7 +6,7 @@
 <div align="center">
   <a href="">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Aria's Bolthole bar Website</h3>
@@ -43,16 +43,16 @@
         <li>
           <a href="#Events">Events</a>
         </li>
+        <li>
+          <a href="#Gallery">Aboutus</a>
+        </li>
+        <li>
+          <a href="#Menu">Menu</a>
+        </li>
+        <li>
+          <a href="#Aboutus">Aboutus</a>
+        </li>
       </ol>
-    </li>
-    <li>
-      <a href="#Gallery">Gallery</a>
-    </li>
-    <li>
-      <a href="#Menu">Menu</a>
-    </li>
-    <li>
-      <a href="#Aboutus">Aboutus</a>
     </li>
   </ol>
 </details>
@@ -66,10 +66,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project: The Project is to Re-design the website of Aria's Bolthole Bar
+- Whats the purpose: The purpose is to make the website more appealing and easier to navigate for future clients.
+- What are key components: The key compoments are Events, Gallery, Menu, About us
+- What technology used and how it is used: The technology used for this website are HTML, CSS, & JS 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -80,9 +80,9 @@ Guiding Question:
 
 ### Technology
 <!-- TODO: List of Technology Used -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+[HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -136,4 +136,4 @@ https://readymadeui.com/tailwind/block/pricing-card-layout
 https://readymadeui.com/tailwind-blocks/blog-section
 https://readymadeui.com/tailwind-blocks/blog-section | with image
 
-put the bg.jpg in css/style hindi sa index
+
