@@ -9,11 +9,11 @@
     <img src="" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Bolthole bar Website</h3>
+  <h3 align="center">Aria's Bolthole bar Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ Re-designed the old website of Aria's Bolthole a bar in Poblacion Makati, I improved the layout and navigation for the future and current customers of their establishment.
 </div>
 
 <br />
@@ -35,21 +35,24 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#Home">Home</a>
       <ol>
         <li>
           <a href="#key-components">Key Components</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#Events">Events</a>
         </li>
       </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#Gallery">Gallery</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#Menu">Menu</a>
+    </li>
+    <li>
+      <a href="#Aboutus">Aboutus</a>
     </li>
   </ol>
 </details>
@@ -71,7 +74,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website/Single Page Website: I created a Multipage Website for Aria's Bolthole Bar
 - Parallax transition
 - Transactional
 
