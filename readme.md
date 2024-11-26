@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- Re-designing the old website of Aria's Bolthole a bar in Poblacion, Makati. <br> I improved the layout and navigation for the future and current customers of their establishment.
+ Re-designing the old website of Aria's Bolthole a bar in Poblacion, Makati. <br> I improved the layout and navigation for the future and <br> current customers of their establishment.
 </div>
 
 <br />
