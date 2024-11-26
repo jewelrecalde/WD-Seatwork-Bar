@@ -41,10 +41,10 @@
           <a href="#Events">Events</a>
         </li>
         <li>
-          <a href="#Gallery">Aboutus</a>
+          <a href="#Menu">Menu</a>
         </li>
         <li>
-          <a href="#Menu">Menu</a>
+          <a href="#Gallery">Gallery</a>
         </li>
       </ol>
     </li>
@@ -118,6 +118,9 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+
+| Header | Sample purpose would be here like this and this is the example of what it is. | [Code Pen](https://codepen.io/themesberg/pen/QWmLKNz) |
 
 | Header | Sample purpose would be here like this and this is the example of what it is. |(https://codepen.io/themesberg/pen/QWmLKNz)|
 
