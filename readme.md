@@ -32,38 +32,29 @@
 
 <!-- TODO: If you want to add more layers for your readme -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Home">Home</a>
-      <ol>
-    <li>
-      <a href="#Events">Events</a>
-      <ol>
-    <li>
-      <a href="#Gallery">Gallery</a>
-      <ol>
-    <li>
-      <a href="#Aboutus">Aboutus</a>
-      <ol>
-    <li>
-      <a href="#Menu">Menu</a>
-      <ol>
-        <li>
-          <a href="#Cuervo">Cuervo</a>
-        </li>
-        <li>
-          <a href="#Bacardi">Bacardi</a>
-        </li>
-        <li>
-          <a href="#Jaigermeister">Jaigermeister</a>
-        </li>
-      </ol>
-    </li>
-  </ol>
-  </ol>
-  </ol>
-</details>
+ <summary>Table of Contents</summary>
+<ol>
+  <li>
+    <a href="#Home">Home</a>
+  </li>
+  <li>
+    <a href="#Events">Events</a>
+  </li>
+  <li>
+    <a href="#Gallery">Gallery</a>
+  </li>
+  <li>
+    <a href="#Aboutus">About Us</a>
+  </li>
+  <li>
+    <a href="#Menu">Menu</a>
+    <ul>
+      <li><a href="#Cuervo">Cuervo</a></li>
+      <li><a href="#Bacardi">Bacardi</a></li>
+      <li><a href="#Jaigermeister">Jaigermeister</a></li>
+    </ul>
+  </li>
+</ol>
 
 ---
 
