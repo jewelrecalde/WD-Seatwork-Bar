@@ -63,7 +63,6 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
 
 Guiding Question:
 - What is the project: The Project is to Re-design the website of Aria's Bolthole Bar
@@ -80,7 +79,7 @@ Guiding Question:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![TailWind](https://tailwindcss.com/)
+![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -122,14 +121,9 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Navbar | The purpose for this one is to create a navbar for Aria's Bolthole website |https://readymadeui.com/tailwind/component/navbar-with-top-bar |
-|-|-|-|
 | Homepage Layout | The purpose for this one is the get the layout of homepage section to be used for Aria's Bolthole website| https://codepen.io/ui-kenjie/pen/GRVgoRg |
-|-|-|-|
 | Blog Section With Image | The purpose for this one is to create a section where the clients of Aria's Bolthole could see the events and information easily | https://readymadeui.com/tailwind-blocks/blog-section |
-|-|-|-|
 | Product List Layout With Add To Cart | The purpose for this one is to create a page where clients could order and choose their drinks | https://readymadeui.com/tailwind-ecommerce/product-list
-|-|-|-|
 | Product View Page with Features | The purpose for this one is to create a page where clients of Aria's Bolthole could see the product description of their drink and be able to buy it | https://readymadeui.com/tailwind-ecommerce/product-view |
-|-|-|-|
 | Blog Section for Image | The purpose for this one is to create a gallery section where Client's could see the highlighted photos of the events | https://readymadeui.com/tailwind-blocks/blog-section |
-|-|-|-|
+
