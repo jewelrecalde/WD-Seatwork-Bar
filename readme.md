@@ -127,4 +127,5 @@ WD-ProjectName
 | Product List Layout With Add To Cart | The purpose for this one is to create a page where clients could order and choose their drinks | https://readymadeui.com/tailwind-ecommerce/product-list
 | Product View Page with Features | The purpose for this one is to create a page where clients of Aria's Bolthole could see the product description of their drink and be able to buy it | https://readymadeui.com/tailwind-ecommerce/product-view |
 | Blog Section for Image | The purpose for this one is to create a gallery section where Client's could see the highlighted photos of the events | https://readymadeui.com/tailwind-blocks/blog-section |
+| Short Footer | The purpose for this one is to create a footer for Aria's Bolthole's website | https://readymadeui.com/tailwind-components/footer |
 
